@@ -1,0 +1,7 @@
+&input
+ trj_name = 'trj.xyz'
+ outputfile = 'imp.xyz'
+ nstep = 10000
+ nbead = 48
+ natom = 149
+&end
